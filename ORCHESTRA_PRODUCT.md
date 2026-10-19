@@ -25,6 +25,8 @@ Maestro 是语义整理与协调层，不是无限权限的同步机器人。
 
 当前已从核验过的上游提交建立独立本地 fork，拥有自己的 `.git`、`main`、上游引用和基线标签。原有职责与权限设计保存在本文件；根目录 `README.md` 与 `README.zh.md` 保留上游说明。
 
-当前完整源码仍是上游运行时基线，产品 profile、界面适配和企业连接器尚未实现，依赖安装与应用运行尚未验证。产品 `origin` 指向 GitHub 私有仓库 `OrchestraCorp/Maestro`。
+当前运行时源码仍是上游基线，已加入产品 Profile/目标设计清单、校验器和只读构建计划；实际产品 Profile、Stage 登录、业务界面和企业连接器尚未实现，应用构建与运行尚未验证。产品 `origin` 指向 GitHub 私有仓库 `OrchestraCorp/Maestro`。
 
 [仓库维护说明](ORCHESTRA_FORK.md)记录来源、历史状态和独立同步规则。
+
+[Profile、构建与发布规则](ORCHESTRA_BUILD_RELEASE.md)是本产品代码设计与后续交付的维护依据。
