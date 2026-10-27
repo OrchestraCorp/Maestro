@@ -1,0 +1,5 @@
+# Maestro brand assets
+
+[maestro.svg](maestro.svg) is the original artwork supplied by the project owner. Keep its geometry, colors and aspect ratio unchanged.
+
+[maestro.png](maestro.png) is a 512 × 512 raster export on a white background for README display in light and dark themes. The SVG source is retained without modification.

@@ -2,33 +2,27 @@
 # section, a hash of its English and Chinese blocks outside code blocks and generated regions.
 # After editing either side, bring the other along and re-record with:
 #   pnpm run verify-translation-pairing --write README.md
-/deepseek-harness:
-  en: e13937206c0230bd
-  zh: f450490d2ab33102
-/deepseek-harness/developer-preview:
-  en: 4ef4d8a71ac143f0
-  zh: 1bfc3149ba8e5543
-/deepseek-harness/run:
-  en: 4e0248e4c6474fc6
-  zh: eb2fb8d78c7d6bc0
-/deepseek-harness/run/run-from-npm:
-  en: e22005cd42e6cbad
-  zh: 0f536f4208df1d60
-/deepseek-harness/run/run-from-source:
-  en: 819e3f7c144d0d64
-  zh: de815f040975dba7
-/deepseek-harness/community-and-support:
-  en: 20acf6451fdc869b
-  zh: d06246dd019ecef7
-/deepseek-harness/contributing:
-  en: cabc2d3e9f8898bd
-  zh: 83b6d238bae29ce3
-/deepseek-harness/development:
-  en: 803ca2b11b497bed
-  zh: 8b4071eb0e7783ef
-/deepseek-harness/citation:
-  en: 6704e9e5a8d49a91
-  zh: 85c9cdd8d56f8e9d
-/deepseek-harness/license:
-  en: 926995344fc1c72b
-  zh: c92fab5abf85932f
+/:
+  en: 2ee20fa8adb62325
+  zh: 2ee20fa8adb62325
+/maestro:
+  en: 1c703a795fae5f97
+  zh: 6800f97924e4edcc
+/maestro/development-status:
+  en: e726e8f853b34264
+  zh: e3f0553208f6fb21
+/maestro/orchestracorp-projects:
+  en: d0a84c431d89119d
+  zh: c3fb3db4ff0290f3
+/maestro/run:
+  en: 025c782b989f4e0b
+  zh: 2bafad5921a3780b
+/maestro/run/run-from-source:
+  en: 6d144fa4fc4b9561
+  zh: 6de30d35df9fd5e4
+/maestro/documentation-and-contribution:
+  en: facbf91c312c294d
+  zh: 52c74673e1cb8fc4
+/maestro/upstream-and-license:
+  en: 0e14fcca1fbef491
+  zh: eb5a0339f10f4f03
